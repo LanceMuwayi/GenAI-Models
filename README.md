@@ -1,2 +1,1 @@
-# GenAI-Models
-RAG Bot
+# GenAI_Notebooks
